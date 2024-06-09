@@ -1,0 +1,29 @@
+2024-06-10 02:26:38,432 - SingletonLogger - INFO - ###########################################################
+2024-06-10 02:26:38,432 - SingletonLogger - INFO - Training is starting : 2024-06-10 02:26:38.432003
+2024-06-10 02:26:38,433 - SingletonLogger - INFO - Device : cuda
+2024-06-10 02:26:38,433 - SingletonLogger - INFO - ###########################################################
+2024-06-10 02:27:13,819 - SingletonLogger - INFO - Epoch 1: Train Loss: 0.9526, Train Acc: 0.7420, Val Loss: 0.6323, Val Acc: 0.8004
+2024-06-10 02:27:45,734 - SingletonLogger - INFO - Epoch 2: Train Loss: 0.6640, Train Acc: 0.7747, Val Loss: 0.5447, Val Acc: 0.8063
+2024-06-10 02:28:17,739 - SingletonLogger - INFO - Epoch 3: Train Loss: 0.6187, Train Acc: 0.7904, Val Loss: 0.5291, Val Acc: 0.8222
+2024-06-10 02:28:49,958 - SingletonLogger - INFO - Epoch 4: Train Loss: 0.5388, Train Acc: 0.8187, Val Loss: 0.4588, Val Acc: 0.8491
+2024-06-10 02:29:22,059 - SingletonLogger - INFO - Epoch 5: Train Loss: 0.5636, Train Acc: 0.8069, Val Loss: 0.4387, Val Acc: 0.8579
+2024-06-10 02:29:54,237 - SingletonLogger - INFO - Epoch 6: Train Loss: 0.5317, Train Acc: 0.8210, Val Loss: 0.4448, Val Acc: 0.8499
+2024-06-10 02:30:26,381 - SingletonLogger - INFO - Epoch 7: Train Loss: 0.5242, Train Acc: 0.8217, Val Loss: 0.4157, Val Acc: 0.8646
+2024-06-10 02:30:58,475 - SingletonLogger - INFO - Epoch 8: Train Loss: 0.5231, Train Acc: 0.8274, Val Loss: 0.4952, Val Acc: 0.8525
+2024-06-10 02:31:30,579 - SingletonLogger - INFO - Epoch 9: Train Loss: 0.4969, Train Acc: 0.8347, Val Loss: 0.4145, Val Acc: 0.8643
+2024-06-10 02:32:02,706 - SingletonLogger - INFO - Epoch 10: Train Loss: 0.4724, Train Acc: 0.8432, Val Loss: 0.4297, Val Acc: 0.8662
+2024-06-10 02:33:18,476 - SingletonLogger - INFO - ###########################################################
+2024-06-10 02:33:18,476 - SingletonLogger - INFO - Training is starting : 2024-06-10 02:33:18.476843
+2024-06-10 02:33:18,476 - SingletonLogger - INFO - Device : cuda
+2024-06-10 02:33:18,476 - SingletonLogger - INFO - ###########################################################
+2024-06-10 02:33:55,781 - SingletonLogger - INFO - Epoch 1: Train Loss: 0.9751, Train Acc: 0.7316, Val Loss: 0.6568, Val Acc: 0.7798
+2024-06-10 02:34:27,628 - SingletonLogger - INFO - Epoch 2: Train Loss: 0.6304, Train Acc: 0.7889, Val Loss: 0.5988, Val Acc: 0.7965
+2024-06-10 02:34:59,464 - SingletonLogger - INFO - Epoch 3: Train Loss: 0.5748, Train Acc: 0.8065, Val Loss: 0.5260, Val Acc: 0.8125
+2024-06-10 02:35:31,423 - SingletonLogger - INFO - Epoch 4: Train Loss: 0.5567, Train Acc: 0.8130, Val Loss: 0.5145, Val Acc: 0.8386
+2024-06-10 02:36:03,807 - SingletonLogger - INFO - Epoch 5: Train Loss: 0.5538, Train Acc: 0.8107, Val Loss: 0.6626, Val Acc: 0.7783
+2024-06-10 02:36:36,302 - SingletonLogger - INFO - Epoch 6: Train Loss: 0.5464, Train Acc: 0.8126, Val Loss: 0.4519, Val Acc: 0.8521
+2024-06-10 02:37:08,930 - SingletonLogger - INFO - Epoch 7: Train Loss: 0.5012, Train Acc: 0.8315, Val Loss: 0.4389, Val Acc: 0.8492
+2024-06-10 02:37:41,118 - SingletonLogger - INFO - Epoch 8: Train Loss: 0.5249, Train Acc: 0.8222, Val Loss: 0.4543, Val Acc: 0.8452
+2024-06-10 02:38:13,023 - SingletonLogger - INFO - Epoch 9: Train Loss: 0.5119, Train Acc: 0.8270, Val Loss: 0.5778, Val Acc: 0.8130
+2024-06-10 02:38:44,938 - SingletonLogger - INFO - Epoch 10: Train Loss: 0.4928, Train Acc: 0.8357, Val Loss: 0.4531, Val Acc: 0.8535
+2024-06-10 02:38:46,236 - SingletonLogger - INFO - Test Loss: 0.5113, Test Accuracy: 0.8320
