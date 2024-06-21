@@ -43,7 +43,7 @@ if __name__ == "__main__":
     image_transform = None
     mask_transform = None
 
-    train_dataset = SegmentationDataset(root_dir='../data/dataset', subset='test',
+    train_dataset = SegmentationDataset(root_dir='../../SemanticSegmentation-temp/data/dataset', subset='val',
                                         image_transform=image_transform, mask_transform=mask_transform)
 
     print("Number of training samples:", len(train_dataset))

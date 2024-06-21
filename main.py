@@ -1,6 +1,3 @@
-import torch
-from torch import nn, optim
-from models.unet import UNet
 from config.training_config import TrainingConfig
 from services.train import TrainService
 

@@ -1,6 +1,8 @@
 import torch
 import torch.nn as nn
 
+from models.conv import Conv
+
 
 class DoubleConv(nn.Module):
     """
@@ -32,12 +34,8 @@ class DoubleConv(nn.Module):
         super().__init__()
 
         self.conv_pipe = nn.Sequential(
-            nn.Conv2d(in_channels, out_channels, kernel_size=kernel_size, padding=padding),
-            nn.BatchNorm2d(out_channels),
-            nn.ReLU(inplace=True),
-            nn.Conv2d(out_channels, out_channels, kernel_size=kernel_size, padding=padding),
-            nn.BatchNorm2d(out_channels),
-            nn.ReLU(inplace=True)
+            Conv(in_channels, out_channels, kernel_size, padding),
+            Conv(out_channels, out_channels, kernel_size, padding)
         )
 
     def forward(self, x):

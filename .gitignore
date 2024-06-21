@@ -1,0 +1,11 @@
+.venv
+venv
+reports
+results
+data
+*.pth
+*.xml
+*.pyc
+*.log
+**/__pycache__/
+utils/convert_type.py

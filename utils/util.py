@@ -122,8 +122,8 @@ def select_random_files(images_dir, mask_dir, data_dir_images, data_dir_masks, n
 
 image_directory = '../data/patched_images'
 mask_directory = '../data/masks_2d'
-data_dir_image = "../data/dataset/images"
-data_dir_mask = "../data/dataset/masks"
+data_dir_image = "../../SemanticSegmentation-temp/data/dataset/images"
+data_dir_mask = "../../SemanticSegmentation-temp/data/dataset/masks"
 
 select_random_files(image_directory, mask_directory, data_dir_image, data_dir_mask)
 

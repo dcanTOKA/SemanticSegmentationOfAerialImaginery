@@ -5,7 +5,13 @@ from models.double_conv import DoubleConv
 
 class DownSample(nn.Module):
     """
-        (DoubleConv -> 2D Max Pooling) x1
+
+    ###################3####
+    #### Encoder Block ####
+    #######################
+
+
+    (DoubleConv -> 2D Max Pooling) x1
 
     For Max Pooling calculation :
         H_out = ((H_in - pool_size) / stride ) + 1

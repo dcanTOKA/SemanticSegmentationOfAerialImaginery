@@ -30,6 +30,7 @@ class UNet(nn.Module):
         output: (batch_size, num_classes, H, W)
 
     """
+
     def __init__(self, in_channel, num_classes):
         super().__init__()
 
@@ -67,8 +68,11 @@ if __name__ == "__main__":
     double_conv = DoubleConv(256, 256)
     print(double_conv)
 
-    input_image_dummy = torch.rand((1, 3, 512, 512))
+    input_image_dummy = torch.rand((1, 3, 256, 256))
     model = UNet(3, 5)
     out = model(input_image_dummy)
 
     print(out.shape)
+
+    total_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
+    print(f"Number of Parameters : {total_params}")

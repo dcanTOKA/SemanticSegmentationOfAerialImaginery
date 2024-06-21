@@ -27,3 +27,142 @@
 2024-06-10 02:38:13,023 - SingletonLogger - INFO - Epoch 9: Train Loss: 0.5119, Train Acc: 0.8270, Val Loss: 0.5778, Val Acc: 0.8130
 2024-06-10 02:38:44,938 - SingletonLogger - INFO - Epoch 10: Train Loss: 0.4928, Train Acc: 0.8357, Val Loss: 0.4531, Val Acc: 0.8535
 2024-06-10 02:38:46,236 - SingletonLogger - INFO - Test Loss: 0.5113, Test Accuracy: 0.8320
+2024-06-13 23:00:33,564 - SingletonLogger - INFO - ###########################################################
+2024-06-13 23:00:33,564 - SingletonLogger - INFO - Training is starting : 2024-06-13 23:00:33.564504
+2024-06-13 23:00:33,565 - SingletonLogger - INFO - Device : cuda
+2024-06-13 23:00:33,565 - SingletonLogger - INFO - ###########################################################
+2024-06-13 23:13:55,893 - SingletonLogger - INFO - ###########################################################
+2024-06-13 23:13:55,894 - SingletonLogger - INFO - Training is starting : 2024-06-13 23:13:55.894868
+2024-06-13 23:13:55,894 - SingletonLogger - INFO - Device : cuda
+2024-06-13 23:13:55,894 - SingletonLogger - INFO - ###########################################################
+2024-06-13 23:17:59,966 - SingletonLogger - INFO - ###########################################################
+2024-06-13 23:17:59,966 - SingletonLogger - INFO - Training is starting : 2024-06-13 23:17:59.966959
+2024-06-13 23:17:59,967 - SingletonLogger - INFO - Device : cuda
+2024-06-13 23:17:59,967 - SingletonLogger - INFO - ###########################################################
+2024-06-13 23:20:11,214 - SingletonLogger - INFO - ###########################################################
+2024-06-13 23:20:11,214 - SingletonLogger - INFO - Training is starting : 2024-06-13 23:20:11.214829
+2024-06-13 23:20:11,215 - SingletonLogger - INFO - Device : cuda
+2024-06-13 23:20:11,215 - SingletonLogger - INFO - ###########################################################
+2024-06-13 23:22:02,414 - SingletonLogger - INFO - Epoch 1: Train Loss: 0.8185, Train Acc: 0.7369, Val Loss: 1.1056, Val Acc: 0.5427
+2024-06-13 23:22:44,966 - SingletonLogger - INFO - Epoch 2: Train Loss: 0.6388, Train Acc: 0.7781, Val Loss: 0.4776, Val Acc: 0.8333
+2024-06-13 23:23:24,473 - SingletonLogger - INFO - Epoch 3: Train Loss: 0.5590, Train Acc: 0.8092, Val Loss: 0.5189, Val Acc: 0.8267
+2024-06-13 23:24:03,680 - SingletonLogger - INFO - Epoch 4: Train Loss: 0.5667, Train Acc: 0.8045, Val Loss: 0.4885, Val Acc: 0.8335
+2024-06-13 23:27:35,113 - SingletonLogger - INFO - ###########################################################
+2024-06-13 23:27:35,113 - SingletonLogger - INFO - Training is starting : 2024-06-13 23:27:35.113234
+2024-06-13 23:27:35,113 - SingletonLogger - INFO - Device : cuda
+2024-06-13 23:27:35,113 - SingletonLogger - INFO - ###########################################################
+2024-06-13 23:28:15,663 - SingletonLogger - INFO - Epoch 1: Train Loss: 0.8520, Train Acc: 0.7330, Val Loss: 0.5352, Val Acc: 0.8107
+2024-06-13 23:28:54,056 - SingletonLogger - INFO - Epoch 2: Train Loss: 0.6409, Train Acc: 0.7712, Val Loss: 0.4467, Val Acc: 0.8322
+2024-06-16 15:53:27,433 - SingletonLogger - INFO - ###########################################################
+2024-06-16 15:53:27,434 - SingletonLogger - INFO - Training is starting : 2024-06-16 15:53:27.434042
+2024-06-16 15:53:27,434 - SingletonLogger - INFO - Device : cuda
+2024-06-16 15:53:27,434 - SingletonLogger - INFO - ###########################################################
+2024-06-16 15:54:43,629 - SingletonLogger - INFO - ###########################################################
+2024-06-16 15:54:43,629 - SingletonLogger - INFO - Training is starting : 2024-06-16 15:54:43.629674
+2024-06-16 15:54:43,629 - SingletonLogger - INFO - Device : cuda
+2024-06-16 15:54:43,629 - SingletonLogger - INFO - ###########################################################
+2024-06-16 15:59:36,039 - SingletonLogger - INFO - ###########################################################
+2024-06-16 15:59:36,039 - SingletonLogger - INFO - Training is starting : 2024-06-16 15:59:36.039435
+2024-06-16 15:59:36,039 - SingletonLogger - INFO - Device : cuda
+2024-06-16 15:59:36,039 - SingletonLogger - INFO - ###########################################################
+2024-06-16 16:00:18,170 - SingletonLogger - INFO - Epoch 1: Train Loss: 0.8139, Train Acc: 0.7396, Val Loss: 0.5974, Val Acc: 0.8035
+2024-06-16 16:00:57,400 - SingletonLogger - INFO - Epoch 2: Train Loss: 0.6279, Train Acc: 0.7804, Val Loss: 0.4514, Val Acc: 0.8251
+2024-06-16 16:01:37,082 - SingletonLogger - INFO - Epoch 3: Train Loss: 0.5594, Train Acc: 0.8042, Val Loss: 0.3979, Val Acc: 0.8531
+2024-06-20 15:15:50,841 - SingletonLogger - INFO - ###########################################################
+2024-06-20 15:15:50,841 - SingletonLogger - INFO - Training is starting : 2024-06-20 15:15:50.841393
+2024-06-20 15:15:50,842 - SingletonLogger - INFO - Device : cuda
+2024-06-20 15:15:50,842 - SingletonLogger - INFO - ###########################################################
+2024-06-20 15:16:42,892 - SingletonLogger - INFO - ###########################################################
+2024-06-20 15:16:42,892 - SingletonLogger - INFO - Training is starting : 2024-06-20 15:16:42.892543
+2024-06-20 15:16:42,892 - SingletonLogger - INFO - Device : cuda
+2024-06-20 15:16:42,892 - SingletonLogger - INFO - ###########################################################
+2024-06-20 15:20:33,033 - SingletonLogger - INFO - ###########################################################
+2024-06-20 15:20:33,033 - SingletonLogger - INFO - Training is starting : 2024-06-20 15:20:33.033167
+2024-06-20 15:20:33,034 - SingletonLogger - INFO - Device : cuda
+2024-06-20 15:20:33,034 - SingletonLogger - INFO - ###########################################################
+2024-06-20 15:52:28,136 - SingletonLogger - INFO - ###########################################################
+2024-06-20 15:52:28,136 - SingletonLogger - INFO - Training is starting : 2024-06-20 15:52:28.136218
+2024-06-20 15:52:28,136 - SingletonLogger - INFO - Device : cuda
+2024-06-20 15:52:28,136 - SingletonLogger - INFO - ###########################################################
+2024-06-20 15:53:54,584 - SingletonLogger - INFO - ###########################################################
+2024-06-20 15:53:54,584 - SingletonLogger - INFO - Training is starting : 2024-06-20 15:53:54.584158
+2024-06-20 15:53:54,584 - SingletonLogger - INFO - Device : cuda
+2024-06-20 15:53:54,584 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:03:18,236 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:03:18,236 - SingletonLogger - INFO - Training is starting : 2024-06-20 16:03:18.236104
+2024-06-20 16:03:18,236 - SingletonLogger - INFO - Device : cuda
+2024-06-20 16:03:18,236 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:05:41,453 - SingletonLogger - INFO - Epoch 1: Train Loss: 0.7524, Train Acc: 0.7472, Val Loss: 0.5158, Val Acc: 0.8233
+2024-06-20 16:07:56,024 - SingletonLogger - INFO - Epoch 2: Train Loss: 0.5641, Train Acc: 0.7965, Val Loss: 0.5209, Val Acc: 0.8067
+2024-06-20 16:10:02,174 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:10:02,174 - SingletonLogger - INFO - Training is starting : 2024-06-20 16:10:02.174332
+2024-06-20 16:10:02,174 - SingletonLogger - INFO - Device : cuda
+2024-06-20 16:10:02,174 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:35:55,896 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:35:55,897 - SingletonLogger - INFO - Training is starting : 2024-06-20 16:35:55.897486
+2024-06-20 16:35:55,897 - SingletonLogger - INFO - Device : cuda
+2024-06-20 16:35:55,897 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:36:22,203 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:36:22,203 - SingletonLogger - INFO - Training is starting : 2024-06-20 16:36:22.203097
+2024-06-20 16:36:22,203 - SingletonLogger - INFO - Device : cuda
+2024-06-20 16:36:22,203 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:44:31,175 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:44:31,175 - SingletonLogger - INFO - Training is starting : 2024-06-20 16:44:31.175267
+2024-06-20 16:44:31,175 - SingletonLogger - INFO - Device : cuda
+2024-06-20 16:44:31,175 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:48:03,519 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:48:03,520 - SingletonLogger - INFO - Training is starting : 2024-06-20 16:48:03.520040
+2024-06-20 16:48:03,520 - SingletonLogger - INFO - Device : cuda
+2024-06-20 16:48:03,520 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:49:02,477 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:49:02,477 - SingletonLogger - INFO - Training is starting : 2024-06-20 16:49:02.477819
+2024-06-20 16:49:02,477 - SingletonLogger - INFO - Device : cuda
+2024-06-20 16:49:02,477 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:49:58,099 - SingletonLogger - INFO - Epoch 1: Train Loss: 0.8703, Train Acc: 0.7220, Val Loss: 0.7849, Val Acc: 0.7153
+2024-06-20 16:50:47,708 - SingletonLogger - INFO - Epoch 2: Train Loss: 0.6176, Train Acc: 0.7858, Val Loss: 0.6725, Val Acc: 0.7704
+2024-06-20 16:51:37,171 - SingletonLogger - INFO - Epoch 3: Train Loss: 0.5731, Train Acc: 0.7910, Val Loss: 0.5414, Val Acc: 0.8188
+2024-06-20 16:52:25,412 - SingletonLogger - INFO - Epoch 4: Train Loss: 0.5266, Train Acc: 0.8120, Val Loss: 0.3972, Val Acc: 0.8482
+2024-06-20 16:53:14,339 - SingletonLogger - INFO - Epoch 5: Train Loss: 0.5170, Train Acc: 0.8177, Val Loss: 0.3908, Val Acc: 0.8519
+2024-06-20 16:54:26,730 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:54:26,730 - SingletonLogger - INFO - Training is starting : 2024-06-20 16:54:26.730688
+2024-06-20 16:54:26,730 - SingletonLogger - INFO - Device : cuda
+2024-06-20 16:54:26,730 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:55:30,827 - SingletonLogger - INFO - Epoch 1: Train Loss: 0.8037, Train Acc: 0.7412, Val Loss: 0.4969, Val Acc: 0.8283
+2024-06-20 16:56:50,715 - SingletonLogger - INFO - ###########################################################
+2024-06-20 16:56:50,715 - SingletonLogger - INFO - Training is starting : 2024-06-20 16:56:50.715893
+2024-06-20 16:56:50,715 - SingletonLogger - INFO - Device : cuda
+2024-06-20 16:56:50,715 - SingletonLogger - INFO - ###########################################################
+2024-06-20 17:06:46,690 - SingletonLogger - INFO - ###########################################################
+2024-06-20 17:06:46,690 - SingletonLogger - INFO - Training is starting : 2024-06-20 17:06:46.690640
+2024-06-20 17:06:46,690 - SingletonLogger - INFO - Device : cuda
+2024-06-20 17:06:46,690 - SingletonLogger - INFO - ###########################################################
+2024-06-20 17:13:35,352 - SingletonLogger - INFO - ###########################################################
+2024-06-20 17:13:35,352 - SingletonLogger - INFO - Training is starting : 2024-06-20 17:13:35.352473
+2024-06-20 17:13:35,352 - SingletonLogger - INFO - Device : cuda
+2024-06-20 17:13:35,353 - SingletonLogger - INFO - ###########################################################
+2024-06-20 17:16:02,918 - SingletonLogger - INFO - Epoch 1: Train Loss: 4.7135, Train Acc: 0.6654, Val Loss: 3.4121, Val Acc: 0.8213
+2024-06-20 17:18:24,972 - SingletonLogger - INFO - Epoch 2: Train Loss: 3.8636, Train Acc: 0.7444, Val Loss: 2.8755, Val Acc: 0.8139
+2024-06-20 17:20:43,864 - SingletonLogger - INFO - Epoch 3: Train Loss: 3.4197, Train Acc: 0.7854, Val Loss: 3.7157, Val Acc: 0.5300
+2024-06-20 17:23:02,790 - SingletonLogger - INFO - Epoch 4: Train Loss: 3.2113, Train Acc: 0.7942, Val Loss: 3.0599, Val Acc: 0.7818
+2024-06-20 17:25:21,465 - SingletonLogger - INFO - Epoch 5: Train Loss: 3.1807, Train Acc: 0.8025, Val Loss: 2.5573, Val Acc: 0.8422
+2024-06-20 17:27:40,502 - SingletonLogger - INFO - Epoch 6: Train Loss: 2.7942, Train Acc: 0.8208, Val Loss: 2.6231, Val Acc: 0.8098
+2024-06-20 17:29:59,634 - SingletonLogger - INFO - Epoch 7: Train Loss: 2.7107, Train Acc: 0.8322, Val Loss: 2.3519, Val Acc: 0.8618
+2024-06-20 17:32:18,856 - SingletonLogger - INFO - Epoch 8: Train Loss: 2.7116, Train Acc: 0.8266, Val Loss: 3.3429, Val Acc: 0.7882
+2024-06-20 17:34:37,818 - SingletonLogger - INFO - Epoch 9: Train Loss: 2.6145, Train Acc: 0.8357, Val Loss: 2.4838, Val Acc: 0.8367
+2024-06-20 17:36:56,757 - SingletonLogger - INFO - Epoch 10: Train Loss: 2.4894, Train Acc: 0.8376, Val Loss: 2.6658, Val Acc: 0.8312
+2024-06-20 17:37:11,997 - SingletonLogger - INFO - Test Loss: 2.9947, Test Accuracy: 0.8139
+2024-06-20 20:21:02,128 - SingletonLogger - INFO - ###########################################################
+2024-06-20 20:21:02,128 - SingletonLogger - INFO - Training is starting : 2024-06-20 20:21:02.128729
+2024-06-20 20:21:02,128 - SingletonLogger - INFO - Device : cuda
+2024-06-20 20:21:02,128 - SingletonLogger - INFO - ###########################################################
+2024-06-20 20:22:11,036 - SingletonLogger - INFO - Epoch 1: Train Loss: 0.9332, Train Acc: 0.6608, Val Loss: 0.6760, Val Acc: 0.7729
+2024-06-20 20:23:12,768 - SingletonLogger - INFO - Epoch 2: Train Loss: 0.7169, Train Acc: 0.7350, Val Loss: 0.4855, Val Acc: 0.8424
+2024-06-20 20:24:14,893 - SingletonLogger - INFO - Epoch 3: Train Loss: 0.6863, Train Acc: 0.7515, Val Loss: 0.5527, Val Acc: 0.8131
+2024-06-20 20:25:17,268 - SingletonLogger - INFO - Epoch 4: Train Loss: 0.6392, Train Acc: 0.7735, Val Loss: 0.5479, Val Acc: 0.8365
+2024-06-20 20:26:19,574 - SingletonLogger - INFO - Epoch 5: Train Loss: 0.5867, Train Acc: 0.8001, Val Loss: 0.5075, Val Acc: 0.8300
+2024-06-20 20:27:22,231 - SingletonLogger - INFO - Epoch 6: Train Loss: 0.5644, Train Acc: 0.8106, Val Loss: 0.4993, Val Acc: 0.8376
+2024-06-20 20:28:25,253 - SingletonLogger - INFO - Epoch 7: Train Loss: 0.5573, Train Acc: 0.8086, Val Loss: 0.5175, Val Acc: 0.8371
+2024-06-20 20:29:28,042 - SingletonLogger - INFO - Epoch 8: Train Loss: 0.5277, Train Acc: 0.8223, Val Loss: 0.5384, Val Acc: 0.8110
+2024-06-20 20:30:31,412 - SingletonLogger - INFO - Epoch 9: Train Loss: 0.5130, Train Acc: 0.8283, Val Loss: 0.4731, Val Acc: 0.8351
+2024-06-20 20:31:34,556 - SingletonLogger - INFO - Epoch 10: Train Loss: 0.4852, Train Acc: 0.8383, Val Loss: 0.5517, Val Acc: 0.8175
+2024-06-20 20:31:48,261 - SingletonLogger - INFO - Test Loss: 0.5627, Test Accuracy: 0.8064
